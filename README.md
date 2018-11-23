@@ -27,3 +27,7 @@ There, you should leave the options like this image:
 
 That's it.
 Happy Shopifying!
+
+- Springs Digital
+https://springsdigital.com
+*Code is poetry*
