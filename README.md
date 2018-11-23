@@ -28,7 +28,7 @@ There, you should leave the options like this image:
 
 That's it.
 If you liked it, you can buy Bruno a coffee.
-buymeacoff.ee/brunocalderon
+https://buymeacoff.ee/brunocalderon
 
 **Happy Shopifying!**
 
