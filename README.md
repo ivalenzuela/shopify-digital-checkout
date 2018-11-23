@@ -30,7 +30,3 @@ That's it.
 If you liked it, you can buy [buy Bruno a coffee](https://buymeacoff.ee/brunocalderon).
 
 **Happy Shopifying!**
-
-- Springs Digital
-https://springsdigital.com
-*Code is poetry*
