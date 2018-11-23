@@ -27,7 +27,10 @@ There, you should leave the options like this image:
 ![Order processing](https://public.store-genius.com/digital-order-processing.png "Order processing")
 
 That's it.
-Happy Shopifying!
+If you liked it, you can buy Bruno a coffee.
+buymeacoff.ee/brunocalderon
+
+**Happy Shopifying!**
 
 - Springs Digital
 https://springsdigital.com
