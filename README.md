@@ -9,7 +9,8 @@ Fixes the Shopify Checkout for digital products
 
 2. Paste the installation code in the **"Additional Google Analytics JavaScript"** text box.
 
-```if (window.location.href.indexOf('checkout') > -1) {
+```
+if (window.location.href.indexOf('checkout') > -1) {
   var script = document.createElement('script');
   script.src = 'https://public.store-genius.com/digital-checkout.js';
   document.head.appendChild(script);
