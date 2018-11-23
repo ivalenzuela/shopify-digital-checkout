@@ -1,4 +1,4 @@
-# shopify-digital-checkout
+# Shopify Digital Checkout
 Fixes the Shopify Checkout for digital products
 
 ## Installation Guide:
