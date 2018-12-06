@@ -4,7 +4,7 @@ This handy little script will hide the Address 1, City and Zip fields for a quic
 
 ## Installation Guide:
 
-1. Go to **"Online Store**" -> **"Preferences**" and scroll down the **Google Analytics** area.
+1. Go to **Sales Channels** -> **"Online Store**" -> **"Preferences**" and scroll down the **Google Analytics** area.
 * You must have previously added your Google Analytics code, if not, follow this guide:
 > https://help.shopify.com/en/manual/reports-and-analytics/google-analytics/google-analytics-setup
 
