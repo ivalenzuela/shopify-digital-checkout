@@ -1,5 +1,5 @@
 # Shopify Digital Checkout
-Fixes the Shopify Checkout for digital products
+Fixes the Shopify Checkout for digital products  
 This handy little script will hide the Address 1, City and Zip fields for a quicker checkout, aimed for digital products.
 
 ## Installation Guide:
